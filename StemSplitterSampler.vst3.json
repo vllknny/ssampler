@@ -1,0 +1,23 @@
+{
+    "JUCE-VST3-User": {
+        "name": "StemSplitterSampler",
+        "description": "VST3 plugin that splits audio stems using Demucs and maps them to a sampler",
+        "manufacturer": "Audio Tools",
+        "code": "SSSS",
+        "manufacturerCode": "AudT",
+        "category": "Effect|Instrument",
+        "version": "1.0.0",
+        "isSynth": false,
+        "wantsMidiIn": true,
+        "producesMidiOut": false,
+        "isMidiEffect": false,
+        "editorWantsKeyboardFocus": false,
+        "supportsVST3": true,
+        "supportsAU": false,
+        "supportsAAX": false,
+        "supportsStandalone": false,
+        "pluginCharacteristics": [
+            "isEffect"
+        ]
+    }
+}
